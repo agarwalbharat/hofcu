@@ -64,7 +64,8 @@ table {
 }
 
 .hunters {
-    margin-top: 20px
+    margin-top: 20px;
+    text-align: center;
 }
 
 .some-text {
@@ -204,5 +205,11 @@ h6 {
 
     .topShift {
         margin-top: -100px;
+    }
+}
+
+@media only screen and (min-width: 993px) {
+    .row .col.l3 {
+        margin-right: 30px;
     }
 }
