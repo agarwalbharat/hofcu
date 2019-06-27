@@ -64,7 +64,7 @@ table {
 }
 
 .hunters {
-    margin-top: 20px;
+    margin-top: 30px;
     text-align: center;
 }
 
@@ -203,8 +203,12 @@ h6 {
         width: 100% !important;
     }
 
+    .hunters {
+        margin-top: 20px;
+    }
+
     .topShift {
-        margin-top: -100px;
+        margin-top: -60px;
     }
 }
 
