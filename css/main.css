@@ -72,11 +72,6 @@ table {
     font-size: 20px
 }
 
-/* .hunter_detail {
-    background-image: linear-gradient(120deg, #dee3e6, #fff);
-    box-shadow: 1px 1px 5px #dee3e6;
-} */
-
 img {
     max-width: 150px !important;
 }
@@ -198,6 +193,9 @@ h6 {
 
 
 @media only screen and (max-width:768px) {
+    .some-text {
+        font-size: 15px
+    }
 
     .container {
         width: 100% !important;
